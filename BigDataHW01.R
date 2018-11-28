@@ -1,5 +1,5 @@
 
-# DELETE THIS NOTE 28112018
+# DELETE THIS NOTE 281118
 
 # Removing unnecessary items and checking my working directory
 rm(list = ls())
